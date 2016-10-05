@@ -35,6 +35,8 @@ a:hover {
 .wiki {
   font-size: 0.8rem;
   font-style: normal;
+  font-weight: normal;
+  font-family: "PT Serif", serif;
 }
 
 figcaption {
